@@ -29,7 +29,7 @@ async def downstatus(client, statusfile, message, chat):
         except:
             await asyncio.sleep(5)
 
-<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/moviiieeeesss'>Movies Ucorp</a></b></blockquote>
+
 # upload status
 async def upstatus(client, statusfile, message, chat):
     while True:
